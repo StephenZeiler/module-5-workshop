@@ -15,3 +15,7 @@ To get started, we need to create a solution.
 1. `dotnet build`
 1. `dotnet new gitignore`
 1. `git init`
+
+Divisible by 3, return Fizz
+Divisible by 5 return buzz
+ivisible by both return FizzBuzz
